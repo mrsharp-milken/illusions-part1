@@ -27,7 +27,7 @@ Make sure this shows your workspace folder (something like
 below assumes you're starting in the right place.
 
 ```
-curl -L -O PASTE_THE_DOWNLOAD_LINK_HERE/illusions-part1.zip
+curl -L -O https://raw.githubusercontent.com/mrsharp-milken/illusions-part1/main/illusions-part1.zip
 ```
 This downloads a zip file into your current folder.
 
