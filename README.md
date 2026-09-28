@@ -15,18 +15,15 @@ has a small bug. Your job is to fix it.
 
 ## Getting the Starter Files
 
-1. Open VSCodium.
-2. If you already have a terminal tab open from a previous session,
-   close it (click the trash-can icon or the "X" on it).
-3. Open a new one: Terminal menu → New Terminal.
-4. Check your terminal prompt (the text right before your cursor). It
-   should look like this, ending in `cs50-workspace %`:
-   ```
-   mrsharp@Mr-Sharp cs50-workspace %
-   ```
-   The part before the `@` will be your own username instead, that's
-   fine, but the last folder name should be `cs50-workspace`, not
-   `illusions`, `illusions-part1`, or anything else.
+Open VSCodium.
+
+If you already have a terminal tab open from a previous session, **close it** (click the trash-can icon or the "X" on it).
+
+Open a new one: **Terminal menu → New Terminal**.
+
+Check your terminal prompt (the text right before your cursor). It should look kinda like this, ending in `cs50-workspace %`:
+
+<img width="485" height="85" alt="image" src="https://github.com/user-attachments/assets/14edf530-ecf5-4148-9d4d-7add76b131b8" />
 
 Everything below assumes you're starting in the right place.
 
