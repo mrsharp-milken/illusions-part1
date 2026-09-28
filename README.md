@@ -144,7 +144,7 @@ and what's wrong with it, before you start editing.
 
 ### Warm-Up 1: Circle and Square (`warmup1_circle_square.py`)
 
-![Circle and Square](images/warmup1.png)
+<img src="images/warmup1.png" width="612" height="640" alt="Circle and Square">
 
 `draw_circle_and_square()` draws a square with a circle inside it, but
 the circle is too big: it pokes out past the square's edges instead
@@ -161,24 +161,24 @@ python3 warmup1_circle_square.py
 
 ### Warm-Up 2: Crosshairs (`warmup2_crosshairs.py`)
 
-![Crosshairs](images/warmup2.png)
+<img src="images/warmup2.png" width="612" height="640" alt="Crosshairs">
 
 `draw_crosshairs()` should draw a red "+" spanning the whole canvas,
 but right now it only draws half of a horizontal line. Two things
 need fixing: extend that line so it spans the full canvas (not just
 center to the right edge), and add the missing vertical line.
 
-Remember, to run the code in this file, run the `python3` command in terminal followed by the filename `warmup2_crosshairs.py`. Yes, I'm making you type it yourself this time so you remember!
+Remember, to run the code in this file, run the `python3` command in terminal followed by the filename `warmup2_crosshairs.py`. 
 ```
 python3 ________
 ```
-_Learn the shortcuts like up-arrow key and tab-complete!_
+_Yes, I'm making you type it yourself this time so you remember! Learn the shortcuts like up-arrow key and tab-complete!_
 
 <br/>
 
 ### Warm-Up 3: Circle Border (`warmup3_circle_border.py`)
 
-![Circle Border](images/warmup3.png)
+<img src="images/warmup3.png" width="612" height="640" alt="Crosshairs">
 
 `draw_circle_border()` is supposed to ring the canvas with evenly
 spaced green circles on all four edges. Right now it only draws the
@@ -196,7 +196,7 @@ no loop for them yet, you have to write one.
 
 ### Warm-Up 4: Piano Pattern (`warmup4_piano_pattern.py`)
 
-![Piano Pattern](images/warmup4.png)
+<img src="images/warmup4.png" width="612" height="640" alt="Crosshairs">
 
 `draw_piano_pattern()` draws the outlines of 7 white piano keys across
 the canvas, but the black keys are missing. Add a filled black
