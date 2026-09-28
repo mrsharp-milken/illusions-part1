@@ -1,9 +1,6 @@
-# Optical Illusions, Warm-Ups (Python + canvas2d)
+# Illusions!
 
-Four short warm-ups to get comfortable with `canvas2d`, a simple
-drawing library, and with using `for` loops to draw things. Each one
-gives you a file that's almost right. It's either missing something or
-has a small bug. Your job is to fix it.
+Make your own optical illusion! First, four short warm-ups to get comfortable with `canvas2d`, a simple drawing library, and with using `for` loops to draw things. Each one gives you a file that's almost right. It's either missing something or has a small bug. Your job is to fix it.
 
 ## Learning Goals
 
