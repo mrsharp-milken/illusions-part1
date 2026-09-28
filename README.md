@@ -1,14 +1,8 @@
 # Illusions!
 
-Make your own optical illusion! First, four short warm-ups to get comfortable with `canvas2d`, a simple drawing library, and with using `for` loops to draw things. Each one gives you a file that's almost right. It's either missing something or has a small bug. Your job is to fix it.
+Make your own optical illusion! 
 
-## Learning Goals
-
-- Get comfortable with `canvas2d`, a pixel-coordinate drawing library.
-- Use a loop counter to control something about what gets drawn each
-  time through the loop: a position, a size, or a color.
-- Practice reading code someone else wrote and figuring out what's
-  wrong with it, not just writing code from scratch.
+Warm up with four shorter challenges to get comfortable with `canvas2d`, a simple drawing library, and with using `for` loops to draw things. Each one gives you a file that's almost right. It's either missing something or has a small bug. Your job is to fix it.
 
 ## Getting the Starter Files
 
